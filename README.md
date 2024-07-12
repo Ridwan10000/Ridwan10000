@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Ridwan
+- 👀 I’m interested in frontend development
+- Currently learning Jquery
+- 🌱 I’m currently building projects on frontend mentor.
+-   twitter:(https://x.com/RidwanHasa72920)
